@@ -1,0 +1,6 @@
+{
+  "name": "Pioneer",
+  "tagline": "A slo-mo action cam for Raspberry Pi.",
+  "body": "Borrowing a page from the **Astro Pi** design book, _piOneer_ consists of a 3D-printed case that holds a **Raspberry Pi**, camera module, user interface, LiPo battery, and large microSD card. Throw in some LEDs, wire, and fasteners and you have a weekend construction project that you can take with you anywhere and record everything that happens to you at 90fps.\r\n\r\n\r\n\r\nA construction tutorial is available in The MagPi.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
